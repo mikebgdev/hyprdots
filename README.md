@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![hyde_banner](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png)
+![hyde_banner](https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/hyde_banner.png)
 
 <br>
 
@@ -22,14 +22,14 @@
   <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/mikebgdev/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
 
 </div><br><br>
 
-https://github.com/prasanthrangan/hyprdots/assets/106020512/7f8fadc8-e293-4482-a851-e9c6464f5265
+https://github.com/mikebgdev/hyprdots/assets/106020512/7f8fadc8-e293-4482-a851-e9c6464f5265
 
-<br><div align="center"><img width="12%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png"/><br></div>
+<br><div align="center"><img width="12%" src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/arch.png"/><br></div>
 
 ## Installation
 
@@ -47,7 +47,7 @@ To install, execute the following commands:
 
 ```shell
 pacman -Sy git
-git clone --depth 1 https://github.com/prasanthrangan/hyprdots ~/HyDE
+git clone --depth 1 https://github.com/mikebgdev/hyprdots ~/HyDE
 cd ~/HyDE/Scripts
 ./install.sh
 ```
@@ -123,43 +123,43 @@ For more information, visit [prasanthrangan/hyde-themes](https://github.com/pras
 ## Styles
 
 <div align="center"><table><tr>Theme Select</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_select_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_select_2.png"/></td></tr></table></div>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/theme_select_1.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/theme_select_2.png"/></td></tr></table></div>
 
 <div align="center"><table><tr><td>Wallpaper Select</td><td>Launcher Select</td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/walls_select.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_sel.png"/></td></tr>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/walls_select.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_sel.png"/></td></tr>
 <tr><td>Wallbash Modes</td><td>Notification Action</td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wb_mode_sel.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/notif_action_sel.png"/></td></tr>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/wb_mode_sel.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/notif_action_sel.png"/></td></tr>
 </table></div>
 
 <div align="center"><table><tr>Rofi Launcher</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_2.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_3.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_4.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_5.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_6.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_7.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_8.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_9.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_10.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_11.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_12.png"/></td></tr>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_1.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_2.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_3.png"/></td></tr><tr><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_4.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_5.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_6.png"/></td></tr><tr><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_7.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_8.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_9.png"/></td></tr><tr><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_10.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_11.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/rofi_style_12.png"/></td></tr>
 </table></div>
 
 <div align="center"><table><tr>Wlogout Menu</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wlog_style_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wlog_style_2.png"/></td></tr></table></div>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/wlog_style_1.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/wlog_style_2.png"/></td></tr></table></div>
 
 <div align="center"><table><tr>Game Launcher</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_2.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_3.png"/></td></tr></table></div>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/game_launch_1.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/game_launch_2.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/game_launch_3.png"/></td></tr></table></div>
 <div align="center"><table><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_4.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_5.png"/></td></tr></table></div>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/game_launch_4.png"/></td><td>
+<img src="https://raw.githubusercontent.com/mikebgdev/hyprdots/main/Source/assets/game_launch_5.png"/></td></tr></table></div>
 
 <div align="right">
   <br>

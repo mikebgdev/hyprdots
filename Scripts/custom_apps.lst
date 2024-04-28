@@ -6,18 +6,15 @@
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
-# emote                                                # emoji picker gtk3
+emote                                                  # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+# gamemode                                             # daemon and library for game optimisations
+# mangohud                                             # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
 spotify                                                # proprietary music streaming service
 spicetify-cli                                          # cli to customize spotify client
-
-# --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor

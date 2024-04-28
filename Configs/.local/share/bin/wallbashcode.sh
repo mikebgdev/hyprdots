@@ -12,7 +12,7 @@ tgtFile="extensions/undefined_publisher.wallbash-0.0.1/themes/wallbash-color-the
 
 for i in "${!codeVsix[@]}" ;do
     if [ ! -f "${codeVsix[i]}/${tgtFile}" ] ; then
-        [ -f "${cacheDir}/landing/Code_Wallbash.vsix" ] || curl -L -o "${cacheDir}/landing/Code_Wallbash.vsix" https://github.com/prasanthrangan/hyprdots/raw/main/Source/arcs/Code_Wallbash.vsix
+        [ -f "${cacheDir}/landing/Code_Wallbash.vsix" ] || curl -L -o "${cacheDir}/landing/Code_Wallbash.vsix" https://github.com/mikebgdev/hyprdots/raw/main/Source/arcs/Code_Wallbash.vsix
         code --install-extension "${cacheDir}/landing/Code_Wallbash.vsix"
     fi
     cp "${cacheDir}/landing/wallbashcode.json" "${codeVsix[i]}/${tgtFile}" || true
