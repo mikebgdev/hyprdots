@@ -65,13 +65,14 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
 neovim                                                 # vim based text editor
-notion                                                 # notes
+notion-app-electron                                    # notes
 telegram-desktop                                       # telegram desktop
 
 # --------------------------------------------------- // Applications Develope
 code                                                   # ide text editor
 phpstorm                                               # ide php
-pycharm                                                # ide python
+pycharm-professional                                   # ide python
+docker                                         # docker
 docker-compose                                         # docker
 
 # --------------------------------------------------- // Shell
